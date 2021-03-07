@@ -6,4 +6,5 @@ def solve(meal_cost, tip_percent, tax_percent):
 
     tax_plus_tip = (meal_after_tax + meal_after_tip)
     total_cost = (meal_cost + tax_plus_tip)
+    
     print(round(total_cost))
