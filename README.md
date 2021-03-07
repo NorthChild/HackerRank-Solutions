@@ -20,7 +20,7 @@ to add:
 - Algorithms:
     - Plus Minus
     - Staircase
-    - another
+    - min-max sum
 
 - another:
     - another
