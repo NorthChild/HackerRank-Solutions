@@ -1,2 +1,9 @@
-def solve(meal_cost, tip_percent, tax_percent):
-    
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+
+integer_division = a // b
+float_division = a / b
+
+print(integer_division)
+print(float_division)
