@@ -19,6 +19,7 @@ to add:
 
 - Algorithms:
     - Plus Minus
+    - Staircase
     - another
 
 - another:
