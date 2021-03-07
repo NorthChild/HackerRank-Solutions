@@ -1,2 +1,2 @@
-def solve(meal_cost, tip_percent, tax_percent):
-    
+
+select * from city where ID like '1661';
