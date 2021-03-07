@@ -10,6 +10,7 @@ to add:
 
 - SQL:
     - Revising the select Query II
+    - Japanese Cities Names
 
 - another:
     - another
