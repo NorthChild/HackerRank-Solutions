@@ -25,3 +25,6 @@ to add:
 - another:
     - another
     - another
+
+
+# all exercises are in python except the SQL folder where its all in, shocker i know, SQL 
