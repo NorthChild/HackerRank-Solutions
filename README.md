@@ -11,6 +11,8 @@ to add:
 - SQL:
     - Revising the select Query II
     - Japanese Cities Names
+    - Weather Observation Station I
+    - Revising aggregations
 
 - another:
     - another
