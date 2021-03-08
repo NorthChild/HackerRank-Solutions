@@ -22,8 +22,8 @@ to add:
     - Staircase
     - min-max sum
 
-- another:
-    - another
+- 30 days of code:
+    - day3_introToConditionals
     - another
 
 
