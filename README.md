@@ -15,7 +15,7 @@ completed on website, to add in repository:
     - Revising aggregations
 
 - Python:
-    - another
+    - something
 
 - Algorithms:
     - Plus Minus
@@ -23,8 +23,9 @@ completed on website, to add in repository:
     - min-max sum
 
 - 30 days of code:
-    - day3_introToConditionals
-    - another
+    - day3
 
+- 10 days of statistics:
+    - Day 0
 
 
