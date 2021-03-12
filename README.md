@@ -25,6 +25,8 @@ completed on website, to add in repository:
 
 - 30 days of code:
     - day3
+    - day4
+    - day5
 
 - 10 days of statistics:
     - Day 0
