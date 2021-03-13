@@ -13,6 +13,7 @@ completed on website, to add in repository:
     - Revising the select Query II
     - Japanese Cities Names
     - Weather Observation Station I
+    - Weather Observation Station III
     - Revising aggregations
 
 - Python:
