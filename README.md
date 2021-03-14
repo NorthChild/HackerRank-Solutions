@@ -17,7 +17,8 @@ completed on website, to add in repository:
     - Revising aggregations
 
 - Python:
-    - something
+    - loops
+    - 
 
 - Algorithms:
     - Plus Minus
