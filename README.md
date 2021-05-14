@@ -38,4 +38,9 @@ completed on website, to add in repository:
 - 10 days of statistics:
     - Day 0
 
+- Interview preparation kit:
+    - Warm-up Challenges
+        - Counting valleys
+        - sales by match
+
 
