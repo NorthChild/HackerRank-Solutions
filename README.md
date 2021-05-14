@@ -33,6 +33,7 @@ completed on website, to add in repository:
     - day7
     - day8
     - day9
+    - day 10
 
 - 10 days of statistics:
     - Day 0
