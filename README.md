@@ -19,14 +19,7 @@ completed on website, to add in repository:
     -
 
 - 30 days of code:
-    - day3
-    - day4
-    - day5
-    - day6
-    - day7
-    - day8
-    - day9
-    - day 10
+    -
 
 - 10 days of statistics:
     - Day 0
