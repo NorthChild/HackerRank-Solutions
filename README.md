@@ -10,20 +10,13 @@ i know some exercises i'm including are very easy, but i m just including all of
 completed on website, to add in repository:
 
 - SQL:
-    - Revising the select Query II
-    - Japanese Cities Names
-    - Weather Observation Station I
-    - Weather Observation Station III
-    - Revising aggregations
+    - 
 
 - Python:
-    - loops
     - 
 
 - Algorithms:
-    - Plus Minus
-    - Staircase
-    - min-max sum
+    -
 
 - 30 days of code:
     - day3
@@ -39,8 +32,8 @@ completed on website, to add in repository:
     - Day 0
 
 - Interview preparation kit:
-    - Warm-up Challenges
-        - Counting valleys
-        - sales by match
+    - Warm-up Challenges:
+        - 
+
 
 
