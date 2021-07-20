@@ -10,7 +10,15 @@ i know some exercises i'm including are very easy, but i m just including all of
 completed on website, to add in repository:
 
 - SQL:
+    - Weather Observation Station 2
     - Weather Observation Station 6
+    - Weather Observation Station 7
+    - Weather Observation Station 8
+    - Weather Observation Station 9
+    - Weather Observation Station 10
+    - Weather Observation Station 11
+    - Name of Employee
+    - Population Density Difference
 
 - Python:
     - 
