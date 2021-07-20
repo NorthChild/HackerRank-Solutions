@@ -10,7 +10,7 @@ i know some exercises i'm including are very easy, but i m just including all of
 completed on website, to add in repository:
 
 - SQL:
-    - 
+    - Weather Observation Station 6
 
 - Python:
     - 
