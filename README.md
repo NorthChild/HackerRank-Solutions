@@ -20,6 +20,7 @@ completed on website, to add in repository:
     - Name of Employee
     - Population Density Difference
     - Population Census
+    - Higher than 75 marks
 
 - Python:
     - 
