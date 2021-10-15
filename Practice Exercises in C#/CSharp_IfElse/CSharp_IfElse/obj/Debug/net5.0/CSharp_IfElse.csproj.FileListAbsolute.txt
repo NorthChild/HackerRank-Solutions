@@ -1,0 +1,16 @@
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\bin\Debug\net5.0\CSharp_IfElse.exe
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\bin\Debug\net5.0\CSharp_IfElse.deps.json
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\bin\Debug\net5.0\CSharp_IfElse.runtimeconfig.json
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\bin\Debug\net5.0\CSharp_IfElse.runtimeconfig.dev.json
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\bin\Debug\net5.0\CSharp_IfElse.dll
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\bin\Debug\net5.0\ref\CSharp_IfElse.dll
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\bin\Debug\net5.0\CSharp_IfElse.pdb
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.csproj.AssemblyReference.cache
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.AssemblyInfoInputs.cache
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.AssemblyInfo.cs
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.csproj.CoreCompileInputs.cache
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.dll
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\ref\CSharp_IfElse.dll
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.pdb
+C:\Repos\CodeKatas\C# exercises\HackerRank-Solutions\Practice Exercises in C#\CSharp_IfElse\CSharp_IfElse\obj\Debug\net5.0\CSharp_IfElse.genruntimeconfig.cache
